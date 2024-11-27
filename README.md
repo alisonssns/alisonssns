@@ -8,10 +8,10 @@
 </picture>
 
 
-- 🔭 Atualmente estou buscando iniciar minha carreira na área da computação, como programador ou suporte técnico.
+- 🔭 Atualmente estou buscando iniciar minha carreira na área da computação, como programador.
   
-- 🌱 Estou estudando React, TypeScript e C++
+- 🌱 React, java e C++
   
 - 📫 Contato: (41 99795-0185) ou alisoncracas2@gmail.com
   
-- ⚡ Ponto forte: Aprendo rápidamente e tenho muito interesse em coisas novas.
+- ⚡ Ponto forte: Aprendizado rápido e perseverança.
