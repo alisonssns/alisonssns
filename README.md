@@ -8,10 +8,15 @@
 
 </picture>
 
+## Tecnologias e conhecimentos
+- React-Vite, JavaScript TypeScript
+- Java, C++, MySql
+- Estrutura de dados, Orientação a objetos, Arvores binarias, Algoritmos
+- Versionamento
+
+## Sobre
 
 - 🔭 Atualmente estou buscando iniciar minha carreira na área da computação, como programador.
-  
-- 🌱 React, java e C++
   
 - 📫 Contato: (41 99795-0185) ou alisoncracas2@gmail.com
   
