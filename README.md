@@ -20,4 +20,6 @@
   
 - 📫 Contato: (41 99795-0185) ou alisoncracas2@gmail.com
   
-- ⚡ Ponto forte: Aprendizado rápido e perseverança.
+- ⚡ Pontos fortes: Aprendizado rápido e perseverança.
+
+- 📚 Objetivos: Buscando minhas primeiras certificações, AWS Certified Cloud Practitioner e Professional Scrum Master I.
