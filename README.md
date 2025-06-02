@@ -9,17 +9,15 @@
 </picture>
 
 ## Tecnologias e conhecimentos
-- React-Vite, JavaScript TypeScript
-- Java, C++, MySql
-- Estrutura de dados, Orientação a objetos, Arvores binarias, Algoritmos
-- Versionamento
+- React-Vite, JavaScript/NodeJS e TypeScript.
+- Java, C++, C e MySql.
+- Estrutura de dados, Orientação a objetos, Arvores binarias, Algoritmos, Pseudo Codigos.
+- Versionamento, Diagramação, Engenharia de software.
 
 ## Sobre
 
-- 🔭 Atualmente estou buscando iniciar minha carreira na área da computação, como programador.
+- 🔭 Atualmente estou buscando iniciar minha carreira como desenvolvedor.
   
 - 📫 Contato: (41 99795-0185) ou alisoncracas2@gmail.com
   
-- ⚡ Pontos fortes: Aprendizado rápido e perseverança.
-
-- 📚 Objetivos: Buscando minhas primeiras certificações, AWS Certified Cloud Practitioner e Professional Scrum Master I.
+- ⚡ Pontos fortes: Aprendizado rápido, trabalho em equipe e perseverança.
