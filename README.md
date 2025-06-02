@@ -21,3 +21,5 @@
 - 📫 Contato: (41 99795-0185) ou alisoncracas2@gmail.com
   
 - ⚡ Pontos fortes: Aprendizado rápido, trabalho em equipe e perseverança.
+
+- 📚 Cursando Bacharelado em Ciência da Computação em IFPR Campus Pinhais
