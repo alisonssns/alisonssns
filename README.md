@@ -30,9 +30,9 @@ Atualmente desenvolvendo projetos de **redes neurais** para visão computacional
 ---
 
 ## Projetos em Destaque
-- **Rede Neural – Adivinhadora de números → [Repositório]((https://github.com/alisonssns/DigitGuess))  
-- **Reconhecimento de Voz (em andamento)** → [Repositório]((https://github.com/alisonssns/voice-recognition-ia))  
-- **TechEase – E-commerce** → [Repositório]((https://github.com/alisonssns/TechEase))  
+- **Rede Neural – Adivinhadora de números → [DigitGuess](https://github.com/alisonssns/DigitGuess)  
+- **Reconhecimento de Voz (em andamento)** → [Voice-Recognition-Ia](https://github.com/alisonssns/voice-recognition-ia)  
+- **TechEase – E-commerce** → [TechEase](https://github.com/alisonssns/TechEase)  
 - **Portfólio Pessoal** → [alisonssns.github.io](https://alisonssns.github.io)
 
 ---
