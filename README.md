@@ -1,4 +1,4 @@
-## Olá! Eu sou Alisson Luis Cordeiro
+# Olá! Eu sou o Alisson Luis Cordeiro
 
 <picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alisonssns&card_width=370&exclude_repo=Site-E-Commerce-TCC,To-do-list" />
@@ -8,18 +8,39 @@
 
 </picture>
 
-## Tecnologias e conhecimentos
-- React-Vite, JavaScript/NodeJS e TypeScript.
-- Java, C++, C e MySql.
-- Estrutura de dados, Orientação a objetos, Arvores binarias, Algoritmos, Pseudo Codigos.
-- Versionamento, Diagramação, Engenharia de software.
+---
 
-## Sobre
+Estudante de **Ciência da Computação (4º semestre)** no IFPR – Pinhais.  
+Interesse principal: **Inteligência Artificial, Machine Learning e Data Science**.  
+Atualmente desenvolvendo projetos de **redes neurais** para visão computacional e reconhecimento de voz.  
 
-- 🔭 Atualmente estou buscando iniciar minha carreira como desenvolvedor.
-  
-- 📫 Contato: (41 99795-0185) ou alisoncracas2@gmail.com
-  
-- ⚡ Pontos fortes: Aprendizado rápido, trabalho em equipe e perseverança.
+---
 
-- 📚 Cursando Bacharelado em Ciência da Computação em IFPR Campus Pinhais
+## Tecnologias e Ferramentas
+
+### IA & Machine Learning
+- Python | PyTorch | TensorFlow | Scikit-learn | NumPy | Pandas
+
+### Desenvolvimento
+- React (Vite, Native) | Node.js | TypeScript | Java | C++ | C
+
+### Ferramentas e Conceitos
+- Git & GitHub | Docker | Engenharia de Software | Estruturas de Dados | POO
+
+---
+
+## Projetos em Destaque
+- **Rede Neural – Adivinhadora de números → [Repositório]([link](https://github.com/alisonssns/DigitGuess))  
+- **Reconhecimento de Voz (em andamento)** → [Repositório]([link](https://github.com/alisonssns/voice-recognition-ia))  
+- **TechEase – E-commerce** → [Repositório]([link](https://github.com/alisonssns/TechEase))  
+- **Portfólio Pessoal** → [alisonssns.github.io](https://alisonssns.github.io)
+
+---
+
+## Contato
+- Email: **alisoncracas2@gmail.com**  
+- Telefone: **(41) 99795-0185**  
+- LinkedIn: [linkedin.com/in/alissonluiscordeiro](https://www.linkedin.com/in/alissonluiscordeiro/)  
+
+---
+Sempre aprendendo, sempre curioso — especialmente em **IA e ML**
