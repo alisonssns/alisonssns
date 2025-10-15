@@ -11,7 +11,7 @@
 ---
 
 Estudante de **Ciência da Computação (4º semestre)** no IFPR – Pinhais.  
-Interesse principal: **Inteligência Artificial, Machine Learning e Data Science**.  
+Interesse principal: **Inteligência Artificial, Machine Learning e Desenvolvimento Web**.  
 Atualmente desenvolvendo projetos de **redes neurais** para visão computacional e reconhecimento de voz.  
 
 ---
