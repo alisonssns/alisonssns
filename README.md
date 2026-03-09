@@ -7,7 +7,7 @@
 
 <br>
 
-Estudante de **Ciência da Computação (4º semestre)** no IFPR – Pinhais.  
+Estudante de **Ciência da Computação (5º semestre)** no IFPR – Pinhais.  
 Interesse principal: **Inteligência Artificial, Machine Learning e Desenvolvimento Web**.  
 Atualmente a desenvolver projetos de **redes neurais** para visão computacional e reconhecimento de voz.  
 
