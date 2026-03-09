@@ -1,15 +1,15 @@
 # Olá! Eu sou o Alisson Luis Cordeiro 👋
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alisonssns&card_width=370&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonssns&layout=compact&langs_count=8&card_width=300" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=alisonssns&card_width=370&show_icons=true" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=alisonssns&layout=compact&langs_count=8&card_width=300" />
 </div>
 
 <br>
 
 Estudante de **Ciência da Computação (4º semestre)** no IFPR – Pinhais.  
 Interesse principal: **Inteligência Artificial, Machine Learning e Desenvolvimento Web**.  
-Atualmente desenvolvendo projetos de **redes neurais** para visão computacional e reconhecimento de voz.  
+Atualmente a desenvolver projetos de **redes neurais** para visão computacional e reconhecimento de voz.  
 
 ---
 
@@ -44,5 +44,5 @@ Atualmente desenvolvendo projetos de **redes neurais** para visão computacional
 <br>
 
 <div align="center">
-  <i>Sempre aprendendo, sempre curioso — especialmente em <b>IA e ML</b> 🤖</i>
+  <i>Sempre a aprender, sempre curioso — especialmente em <b>IA e ML</b> 🤖</i>
 </div>
