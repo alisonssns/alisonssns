@@ -42,7 +42,3 @@ Atualmente a desenvolver projetos de **redes neurais** para visão computacional
 * 💼 **LinkedIn:** [alissonluiscordeiro](https://www.linkedin.com/in/alissonluiscordeiro/)  
 
 <br>
-
-<div align="center">
-  <i>Sempre a aprender, sempre curioso — especialmente em <b>IA e ML</b> 🤖</i>
-</div>
